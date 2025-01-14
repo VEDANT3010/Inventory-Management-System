@@ -10,7 +10,8 @@ $user =$_SESSION['user'];
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>DashBoard - Inventory Management System</title>
+    <title>DashBoard - Inventory Management System</title> 
+    //title to the website 
 
     <link rel="stylesheet" type="text/css" href="./css/login.css/login.css">
     <script src="https://use.fontawesome.com/0c7a3095b5.js"></script>
